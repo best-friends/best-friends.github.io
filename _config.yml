@@ -1,0 +1,5 @@
+encoding: UTF-8
+plugins:
+  - jekyll-github-metadata
+github: [metadata]
+repository: best-friends/best-friends.github.io
