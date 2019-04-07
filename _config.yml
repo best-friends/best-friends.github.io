@@ -1,5 +1,6 @@
 encoding: UTF-8
 plugins:
   - jekyll-github-metadata
+  - jekyll-sitemap
 github: [metadata]
 repository: best-friends/best-friends.github.io

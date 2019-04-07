@@ -245,6 +245,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-github-metadata
+  jekyll-sitemap
 
 BUNDLED WITH
    2.0.1
