@@ -2,5 +2,15 @@ encoding: UTF-8
 plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
+  - jemoji
 github: [metadata]
 repository: best-friends/best-friends.github.io
+
+site:
+  name: The Best Friends
+
+collections:
+  legals:
+    output: true
+    permalink: /:collection/:name
+    path: legals
